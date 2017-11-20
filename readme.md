@@ -6,6 +6,6 @@
 
 	
 ##GPS_Config_Extract_0.1_version_0.2
-	* Extract GPS data with baud = 115200
+* Extract GPS data with baud = 115200
 	
 	
